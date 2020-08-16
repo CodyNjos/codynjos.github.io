@@ -3,14 +3,13 @@
 <head>
 <style>
 body 
+.hero {
+background-image: url('https://www.htmlcsscolor.com/preview/gallery/B0E0E6.png');
 H1   {Color: powderblue}
 p    {color: black}
 </style>
 </head>
 <body>
-.hero {
-  background-image: url('https://www.htmlcsscolor.com/preview/gallery/B0E0E6.png');
-
 <h1>This is a heading</h1>
 <h2>This is a paragraph.</p>
 
