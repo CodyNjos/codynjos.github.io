@@ -5,17 +5,15 @@ H1   {color: red}
 H1   {text-align: center}
 p    {color: black}
 H2   {text-align: center}
+
+
+</style>
+</head>
+<body>
 {
 margin-top: 100px;
 margin-bottom: 100px;
 margin-right: 150px;
 margin-left: 80px;
 }
-
-</style>
-</head>
-<body>
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
 </body>
