@@ -1,7 +1,7 @@
 <head>
 <style>
-body
-background {color: red}
+.center {
+  text-align: center;}
 H1   {Color: black}
 p    {color: black}
 </style>
@@ -9,5 +9,8 @@ p    {color: black}
 <body>
 <h1>This is a heading</h1>
 <h2>This is a paragraph.</p>
+<div class="center">
+  <h1>This text is centered.</h1>
+</div>
 
 </body>
