@@ -7,6 +7,7 @@ p    {color: black}
 H2   {text-align: center}
 
 body {
+  margin:10;
   background-image: url(https://blog.spoongraphics.co.uk/wp-content/uploads/2012/textures/18.jpg);
   background-attatchment: fixed;
   background-size: cover;
