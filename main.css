@@ -5,8 +5,8 @@ H1   {color: red}
 H1   {text-align: center}
 p    {color: black}
 H2   {text-align: center}
-body {margin:200;padding0}
 body {
+  margin: 8px;
   background-image: url(https://blog.spoongraphics.co.uk/wp-content/uploads/2012/textures/18.jpg);
   background-attatchment: fixed;
   background-size: cover;
